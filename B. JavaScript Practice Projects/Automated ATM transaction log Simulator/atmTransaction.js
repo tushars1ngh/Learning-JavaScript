@@ -3,7 +3,7 @@ const account = {
     name: "Virat Kohli",
     balance: 120000,
     pin: 1818
-};
+}
 
 const transaction = [
     { type: "deposit", amount: 3000, pin: 1818 },
